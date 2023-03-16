@@ -4,7 +4,7 @@
 
 - 🎓 Studies for Informatics Engineering at [Universitas Komputer Indonesia](https://www.unikom.ac.id/)
 - 🏡 Lives in **Bandung, Indonesia**
-- 🌱 I’m currently learning Javascript and React JS
+- 🌱 I’m currently learning React JS and Android
 - ⚡ **Fun Facts** : ⚽
 
 
