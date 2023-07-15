@@ -11,6 +11,8 @@
 ## Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a> 
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/900px-Kotlin_Icon.png?20210501145042" /></a>
+  <a href="#"><img align="left" alt="Android" title="Android" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /></a>
  <br>
  <br>
 
