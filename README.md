@@ -2,7 +2,7 @@
 
 ## About Me 
 
-- 🎓 Studies for Informatics Engineering at [Universitas Komputer Indonesia](https://www.unikom.ac.id/)
+- 🎓 Studies for Informatics Engineering at [UNIKOM](https://www.unikom.ac.id/)
 - 🏡 Lives in **Bandung, Indonesia**
 - 🌱 I’m currently learning React JS and Android
 - ⚡ **Fun Facts** : ⚽
