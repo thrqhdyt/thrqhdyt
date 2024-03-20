@@ -4,7 +4,7 @@
 
 - 🎓 Studies for Informatics Engineering at [UNIKOM](https://www.unikom.ac.id/)
 - 🏡 Lives in **Bandung, Indonesia**
-- 🌱 I’m currently learning React JS and Android
+- 🌱 I’m currently learning React JS, Android and Flutter
 - ⚡ **Fun Facts** : ⚽
 
 
@@ -13,6 +13,8 @@
   <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="25px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a> 
   <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/900px-Kotlin_Icon.png?20210501145042" /></a>
   <a href="#"><img align="left" alt="Android" title="Android" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" /></a>
+  <a href="#"><img align="left" alt="Dart" title="Dart" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" /></a>
+  <a href="#"><img align="left" alt="Flutter" title="Flutter" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/1200px-Flutter_logo.svg.png" /></a>
  <br>
  <br>
 
